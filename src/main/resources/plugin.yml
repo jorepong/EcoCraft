@@ -1,0 +1,7 @@
+name: EcoCraft
+version: '${project.version}'
+main: com.jorepong.ecocraft.EcoCraft
+api-version: 1.19
+
+commands:
+  money:

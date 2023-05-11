@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EcoCraft:jar">
+    <output-path>$USER_HOME$/Desktop/1.19.4 서버/plugins</output-path>
+    <root id="archive" name="EcoCraft.jar">
+      <element id="module-output" name="EcoCraft" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Vault.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
